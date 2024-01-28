@@ -1,0 +1,47 @@
+
+body {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(189,195,199,1) 0%, rgba(44,62,80,1) 100%);
+}
+
+.floor {
+    padding:50px ;
+}
+
+.base{
+  padding: 50px;
+}
+
+.secret-text {
+  font-size: 2rem;
+}
+
+.home-page{
+  padding: 50px 0;
+  border-radius: 30px;
+}
+
+.btn{
+  margin: 10px 0 0;
+}
+
+.block{
+  width: 40%;
+  margin: 0 auto;
+}
+
+.card, .form-control{
+  background-color: rgb(249 239 239 / 32%);
+}
+
+.form-group{
+  text-align: left;
+}
+
+/* .form-control{
+  background-color: rgb(8 8 9 / 13%);
+} */
+
+.social-block{
+  padding: 30px 50px;
+}
